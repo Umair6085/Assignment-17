@@ -24,9 +24,10 @@
   
   #hostImg {
     height: 250px;
-    background-image: url(../Assets/Screenshot\ 2023-04-01\ 180735.png);
+    background-image: url(../Assets/plan.jpg);
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
+    background-position: center;
   }
   
   #twoBtn {
